@@ -7,4 +7,4 @@ Here's a quick list of things I know and worked on
 - Java, Javascript, C++, PHP, DBMS
 - React.js & Native, Three.js/react-three/fiber, GraphQL
 
-Currently into - **DSA**
+Currently into - **DSA, OOPS**
