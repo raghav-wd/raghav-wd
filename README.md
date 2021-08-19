@@ -9,4 +9,4 @@ Here's a quick list of things I know and worked on
 
 Currently into - **DSA, OOPS**
 
-<img src="https://github-readme-stats.vercel.app/api?username=raghav-wd" />
+<img src="https://github-readme-stats.vercel.app/api?username=raghav-wd&bg_color=a5d6a7&title_color=ffffff&hide_title=true" />
