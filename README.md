@@ -7,6 +7,6 @@ Here's a quick list of things I know and worked on
 - Java, Javascript, C++, PHP, DBMS
 - React.js & Native, Three.js/react-three/fiber, GraphQL
 
-Currently into - **DSA, OOPS**
+Currently into - **DSA, OOPS & DBMS**
 
 <img src="https://github-readme-stats.vercel.app/api?username=raghav-wd&bg_color=00838f&hide_title=true&text_color=e0f7fa" />
