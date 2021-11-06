@@ -2,7 +2,7 @@
 
 Here's a quick list of things I know and worked on
 - React.js
-- Php (CMS & APIs)
+- Python & Java
 - Android Devlopment (Java)
 - Java, Javascript, C++, PHP, MySQL
 - React Native, Three.js/react-three/fiber, GraphQL
