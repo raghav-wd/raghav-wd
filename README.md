@@ -9,7 +9,7 @@ Here's a quick list of things I know and worked on
 
 Currently active in - **React, Redux & DSA**
 
-#### People interested in DSA, please DM!
+#### People interested in DSA(Leetcode), please DM!
 
 *-- Open to learn, share and work in above domains*
 
