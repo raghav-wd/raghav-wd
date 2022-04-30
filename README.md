@@ -3,11 +3,13 @@
 Here's a quick list of things I know and worked on
 - React.js
 - Python & Java
-- Android Devlopment (Java)
+- Three.js / react-three-fiber
 - Java, Javascript, C++, PHP, MySQL, C#, ASP.NET
-- React Native, Three.js/react-three/fiber, GraphQL, Redux
+- React Native, Android Devlopment (Java), GraphQL, Redux
 
 Currently active in - **React, Redux & DSA**
+
+#### People interested in DSA, please DM!
 
 *-- Open to learn, share and work in above domains*
 
