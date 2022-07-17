@@ -1,7 +1,7 @@
 ## Hi, I'm Devansh
 
 Here's a quick list of things I know and worked on
-- React.js
+- React.js, Typescript, Tailwindcss
 - Python & Java
 - Three.js / react-three-fiber
 - Java, Javascript, C++, PHP, MySQL, C#, ASP.NET
